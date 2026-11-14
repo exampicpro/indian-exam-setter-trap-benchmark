@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this benchmark in RAG systems, educational research, or LLM evaluations, please cite MockTestZone."
+title: "MockTestZone Indian Competitive Exam Setter-Trap, Socratic AI-Hint & Shortcut Benchmark (500Q)"
+version: 1.0.0
+date-released: 2026-11-15
+license: CC-BY-4.0
+url: "https://www.mocktestzone.in/open-benchmark"
+authors:
+  - name: "MockTestZone (Prep Social)"
+    website: "https://www.mocktestzone.in"
